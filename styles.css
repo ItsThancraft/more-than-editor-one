@@ -1,0 +1,23 @@
+
+html {
+    font-size: 10px;
+    font-family: 'Comfortaa', cursive;
+}
+
+body {
+    background: linear-gradient(#ff6e6e, #ff3939);
+    min-height: 100vh;
+    color: whitesmoke;
+    font-size: 1.4rem;
+    margin: 2rem auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+.effects {
+    cursor: pointer;
+    color: rgb(161, 60, 60);
+    font-size: 6rem;
+    padding: 2rem;
+    border: 1rem, #606060;
+}
